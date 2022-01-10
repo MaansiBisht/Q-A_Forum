@@ -17,7 +17,7 @@ Installation
 ##########################
 To run this demo, you need to clone it and install dependencies:
 
-![image](https://user-images.githubusercontent.com/66878185/148738389-e576f35c-fdb2-4058-a3df-b08f44f1070b.png)
+.. image:: (https://user-images.githubusercontent.com/66878185/148738389-e576f35c-fdb2-4058-a3df-b08f44f1070b.png)
 
 Configure the connection file:
 Q-A_Forum/conn_cls.php 
@@ -26,6 +26,6 @@ Start the Apache server at your localhost.
 
 Run the CLI application:
 
-![image](https://user-images.githubusercontent.com/66878185/148738769-abc1344c-2d24-4d73-b224-d29032aafa5c.png)
+.. image:: (https://user-images.githubusercontent.com/66878185/148738769-abc1344c-2d24-4d73-b224-d29032aafa5c.png)
 
 
