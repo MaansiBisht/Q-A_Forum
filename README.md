@@ -18,10 +18,12 @@ To run this demo, you need to clone it and install dependencies:
 Configure the connection file:
 Q-A_Forum/conn_cls.php 
 
+![image](https://user-images.githubusercontent.com/66878185/148820681-3bb282dd-b634-43b1-ab5c-8acc9e39f369.png)
+
 Start the Apache server at your localhost. 
 
 Run the CLI application:
 
-.. image:: (https://user-images.githubusercontent.com/66878185/148738769-abc1344c-2d24-4d73-b224-d29032aafa5c.png)
+![image](https://user-images.githubusercontent.com/66878185/148738769-abc1344c-2d24-4d73-b224-d29032aafa5c.png)
 
 
