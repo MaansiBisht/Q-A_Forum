@@ -9,6 +9,7 @@ The manager supervises all the answers posted which are being made by the user. 
 Requirements
 ###########################
 PHP 5.3 and above.
+
 PHPMYADMIN 5.1.2 and above.
 
 ##########################
